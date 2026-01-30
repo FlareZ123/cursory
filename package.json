@@ -1,0 +1,11 @@
+{
+  "name": "cursory",
+  "version": "0.0.0",
+  "description": "Human-like mouse trajectory generator ported to CommonJS.",
+  "main": "cursory.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "GPL-3.0-or-later"
+}
